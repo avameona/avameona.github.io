@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://avameona.github.io/NRe/sitemap_index.txt
+Sitemap: https://avameona.github.io/PrI/sitemap_index.txt
+Sitemap: https://avameona.github.io/dwI/sitemap_index.txt
+Sitemap: https://avameona.github.io/thi/sitemap_index.txt
